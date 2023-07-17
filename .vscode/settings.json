@@ -1,0 +1,10 @@
+{
+	"java.compile.nullAnalysis.mode": "automatic",
+	"cSpell.words": [""],
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": true,
+		"editor.formatOnSave": true,
+		"source.fixAll.eslint": true
+	}
+}
